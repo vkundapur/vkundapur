@@ -3,6 +3,9 @@
 My name is Vivek Kundapur.
 
 - 🔭 I work on React Native, Android, Spring boot and NodeJS
+- 📫 How to reach me: 
+    - [LinkedIn](https://www.linkedin.com/in/vivek-kundapur-244a352/)
+    - [Twitter](https://twitter.com/vivek_rk)
 
 <!--
 **vkundapur/vkundapur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
