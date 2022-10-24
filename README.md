@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello people 👋
 
 My name is Vivek Kundapur.
 
