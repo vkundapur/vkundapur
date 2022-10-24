@@ -27,3 +27,16 @@ Here are some ideas to get you started:
 ![vkundapur's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vkundapur&theme=vue-dark&hide_border=true)
 
 ![vkundapur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vkundapur&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+### Languages and Tools:
+<div style={display: 'inline-block'}>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="60"/>
+</div>
