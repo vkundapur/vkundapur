@@ -1,6 +1,6 @@
 ### Hello people 👋
 
-My name is Vivek Kundapur.
+My name is Vivek Kundapur. I am a Software professional.
 
 - 🔭 I work on React Native, Android, Spring boot and NodeJS
 - 📫 How to reach me: 
