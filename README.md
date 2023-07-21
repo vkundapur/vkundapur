@@ -23,13 +23,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
+
 ![vkundapur's Stats](https://github-readme-stats.vercel.app/api?username=vkundapur&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![vkundapur's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vkundapur&theme=vue-dark&hide_border=true)
 
 ![vkundapur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vkundapur&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
--->
 
 ### Languages and Tools:
 <div style={display: 'inline-block'}>
