@@ -1,44 +1,24 @@
-### Hello people 👋
+<h1 align="center">Hi 👋, I'm Vivek Kundapur</h1>
+<h3 align="center">Mobile and Backend Alchemist: Turning Ideas into Gold with Exceptional Mobile Experiences and Backend Architectures</h3>
 
-My name is Vivek Kundapur. I am a Software professional.
+<p align="left"> <a href="https://twitter.com/vivek_rk" target="blank"><img src="https://img.shields.io/twitter/follow/vivek_rk?logo=twitter&style=for-the-badge" alt="vivek_rk" /></a> </p>
 
-- 🔭 I work on React Native, Android, Spring boot and NodeJS
-- 📫 How to reach me: 
-    - [LinkedIn](https://www.linkedin.com/in/vivek-kundapur-244a352/)
-    - [Twitter](https://twitter.com/vivek_rk)
-    - [Website](https://www.vivekrk.com)
+- 📝 I regularly write articles on [https://vivekrk.com](https://vivekrk.com)
 
-<!--
-**vkundapur/vkundapur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about **android, react-native,spring-boot**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **vravindranath@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vivek_rk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vivek_rk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vivek-kundapur-244a352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-kundapur-244a352" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/842411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="842411" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-![vkundapur's Stats](https://github-readme-stats.vercel.app/api?username=vkundapur&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vkundapur&show_icons=true&locale=en&layout=compact" alt="vkundapur" /></p>
 
-![vkundapur's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vkundapur&theme=vue-dark&hide_border=true)
-
-![vkundapur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vkundapur&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-### Languages and Tools:
-<div style={display: 'inline-block'}>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="60"/>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vkundapur&" alt="vkundapur" /></p>
