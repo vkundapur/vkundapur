@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://vivekrk.com](https://vivekrk.com)
 
-- 💬 Ask me about **android, react-native,spring-boot**
+- 💬 Ask me about **android, react-native,nodejs, spring-boot**
 
 - 📫 How to reach me **vravindranath@gmail.com**
 
