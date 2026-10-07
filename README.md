@@ -23,3 +23,7 @@ Previously a lot of Android and React Native. Ask me about any of it.
 ## Find me
 
 [Twitter](https://twitter.com/vivek_rk) · [LinkedIn](https://linkedin.com/in/vivek-kundapur-244a352) · [www.vivekrk.com](https://www.vivekrk.com)
+
+## GitHub stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=vkundapur&show_icons=true&hide_border=true" alt="Vivek's GitHub stats: stars, commits, PRs and issues" />
